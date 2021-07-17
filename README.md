@@ -1,3 +1,9 @@
+admin panel with persion language,
+
+contains: users list, posts list, add user option
+
+api is for [JSONplaceholder](https://jsonplaceholder.typicode.com).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
